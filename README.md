@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArieClone
-- 👀 I’m interested in Economics
+- 👀 I’m interested in Economics and Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Econ 1923
 - 📫 How to reach me arie.beresteanu@gmail.com
