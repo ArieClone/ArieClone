@@ -6,9 +6,10 @@
 - 💞️ I’m looking to collaborate on Econ 1923
 - 📫 How to reach me arie.beresteanu@gmail.com
 
-## Learning how to code in
-1. R
-2. Python
+## Learning: 
+1. Python
+2. JSON
+3. Github
 
 
 <!---
